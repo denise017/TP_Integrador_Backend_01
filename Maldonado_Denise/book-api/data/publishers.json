@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "name": "Viking Press",
+    "country": "Estados Unidos"
+  },
+  {
+    "id": "2",
+    "name": "Arkham House",
+    "country": "Estados Unidos"
+  },
+  {
+    "id": "3",
+    "name": "Archibald Constable and Company",
+    "country": "Reino Unido"
+  },
+  {
+    "id": "4",
+    "name": "Penguin Books",
+    "country": "Reino Unido"
+  }
+]

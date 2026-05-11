@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "name": "Stephen King",
+    "nationality": "Estadounidense"
+  },
+  {
+    "id": "2",
+    "name": "H.P. Lovecraft",
+    "nationality": "Estadounidense"
+  },
+  {
+    "id": "3",
+    "name": "Bram Stoker",
+    "nationality": "Irlandes"
+  },
+  {
+    "id": "4",
+    "name": "Mary Shelley",
+    "nationality": "Britanica"
+  }
+]
